@@ -5,3 +5,8 @@ The things this app can do are:
 1. switch tabs in any browser
 2. open a new tab with up and down of little finger
 3. increase and decrease of volume
+
+This product uses libraries such as:
+1.pyautogui
+2. mediapipe
+3. open cv
